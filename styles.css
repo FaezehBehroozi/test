@@ -1,0 +1,68 @@
+.container {
+  display: block;
+  margin-top: 35px;
+  padding: 20px;
+  border: 2px solid #a1a6b1;
+  border-radius: 15px;
+  width: 50%;
+  font-family: sans-serif;
+}
+
+.form-control {
+  margin: 10px;
+}
+
+.btn {
+  margin-top: 10px;
+}
+
+.weather {
+  padding: 20px;
+}
+
+h5 {
+  font-weight: 100;
+  font-size: large;
+}
+
+.today {
+  max-width: 100px;
+  margin-top: -20px;
+  margin-right: -10px;
+  margin-left: 60px;
+}
+
+.temperature {
+  font-size: 45px;
+  margin-top: 20px;
+  text-align: right;
+}
+
+.celsius {
+  font-size: small;
+  position: relative;
+  top: -25px;
+  left: -5px;
+}
+
+.humidity {
+  font-size: medium;
+  position: relative;
+  text-align: right;
+  right: 90px;
+}
+
+.wind {
+  font-size: medium;
+  position: relative;
+  text-align: right;
+  right: 90px;
+}
+
+.sunny {
+  max-width: 50px;
+}
+
+.cloudy {
+  max-width: 50px;
+}
